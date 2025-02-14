@@ -1,3 +1,5 @@
+#Jacob Cho and Nicky Tran | https://github.com/jacho15/ee250_lab4
+
 import paho.mqtt.client as mqtt
 import time
 

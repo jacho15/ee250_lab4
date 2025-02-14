@@ -1,3 +1,5 @@
+#Jacob Cho and Nicky Tran | https://github.com/jacho15/ee250_lab4
+
 """EE 250L Lab 04 Starter Code
 Run vm_sub.py in a separate terminal on your VM."""
 
